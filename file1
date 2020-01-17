@@ -1,0 +1,7 @@
+…or create a new repository on the command line
+echo "# Today1-16-2020.project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zqadeer/Today1-16-2020.project.git
+git push -u origin master
